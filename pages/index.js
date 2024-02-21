@@ -25,6 +25,10 @@ const Home = () => {
           target="_blank"
           rel="noreferrer"
         >
+          <div className="badge">
+            <Image src={buildspaceLogo} alt="buildspace logo" />
+            <p>build with buildspace</p>
+          </div>
         </a>
       </div>
     </div>
