@@ -13,10 +13,10 @@ const Home = () => {
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>sup, insert your headline here</h1>
+            <h1>your content creator assistant</h1>
           </div>
           <div className="header-subtitle">
-            <h2>insert your subtitle here</h2>
+            <h2>write about who you are and your goals, and you will receive a monthly content plan</h2>
           </div>
         </div>
         {/* Add this code here*/}
