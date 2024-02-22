@@ -36,7 +36,6 @@ const Home = () => {
     </a>
   </div>
 </div>
-      </div>
 </div>
       <div className="badge-container grow">
         <a
