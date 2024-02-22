@@ -36,6 +36,8 @@ const Home = () => {
     </a>
   </div>
 </div>
+      </div>
+</div>
       <div className="badge-container grow">
         <a
           href="https://buildspace.so/builds/ai-writer"
